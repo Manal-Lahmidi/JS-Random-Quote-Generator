@@ -23,4 +23,4 @@ This project is a fun and effective way for to practice fundamental JavaScript s
 # View Project
 ![image](https://github.com/Manal-Lahmidi/js-Random-Quote-Generator/assets/129679210/b3f01bd9-dee8-46fd-af36-23a1c9b36ebd)
 
-
+[try app](https://random-quote-generating.netlify.app/)
